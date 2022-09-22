@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Ajjit, a Data Scientist at the Urban Institute (@UrbanInstitute). 
+I'm Ajjit, a current Masters Student at LSE in Geographic Data Science. Previously I worked as a Data Scientist at the Urban Institute (@UrbanInstitute). 
 
-- 🔭 I’m currently building tools for researchers, and working on racial equity analytics
 - 🗺️ I'm a big fan of maps 🗺️, open source geospatial data 📈, baseketball 🏀 and dogs 🐶
-- 📫 How to reach me: anarayanan at urban [dot] org
+- 🔭 I love building data tools, thinking about racial equity analytics, and teaching others about programming!
+- 📫 How to reach me: ajjit123 at gmail [dot] com
 - 😄 Pronouns: he/him/his
