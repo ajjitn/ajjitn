@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm Ajjit, a current Masters Student at LSE in Geographic Data Science. Previously I worked as a Data Scientist at the Urban Institute (@UrbanInstitute). 
+I'm Ajjit. I'm currently the Lead Data Scientist for Housing Equity at the Dept. of Housing and Urban Development. Previously I worked as a Data Scientist at the Urban Institute (@UrbanInstitute). 
 
 - I'm a big fan of maps 🗺️, open source geospatial data 📈, baseketball 🏀 and dogs 🐶
 - I love building big data tools, thinking about spatial analysis, and teaching others about programming 👨🏾‍💻!
 - How to reach me: ajjit123 at gmail [dot] com
 - Pronouns: he/him/his
-
 
 Some examples of my work are below:
 
