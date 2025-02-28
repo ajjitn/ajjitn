@@ -10,6 +10,7 @@ I'm Ajjit. I'm currently the Lead Data Scientist for Housing Equity at the Dept.
 Some examples of my work are below:
 
 ## Publications
+Online Tool: [US Dept. of Housing and Urban Development Socio-Demographic Data Dashboards](https://data.huduser.gov/dashboard/) Jan 2025
 
 Online Tool: [Spatial Equity Data Tool](https://apps.urban.org/features/equity-data-tool/). Nov 18, 2021
 
